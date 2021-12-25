@@ -1,4 +1,4 @@
-# Hypothesis Testing and Multiple Comparison Correction
+# Hypothesis Testing
 - **Neuroscience / Neuroimaging concepts**
     - Drawing scientific conclusions from contrast maps
 - **Datascience / Coding concepts**
